@@ -296,11 +296,6 @@ DB_NAME=iot_manager
 DB_USER=postgres
 DB_PASS=your_password_here
 DB_SCHEMA=iot_manager
-
-# Security configuration
-SECRET_KEY=your-secret-key-here-change-in-production
-ALGORITHM=HS256
-ACCESS_TOKEN_EXPIRE_MINUTES=30
 ```
 
 ## API Documentation
